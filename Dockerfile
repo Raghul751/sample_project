@@ -2,7 +2,7 @@
 FROM openjdk:17-jdk-alpine
 
 # metadata
-LABEL maintainer="your-email@example.com"
+LABEL maintainer="raghul@gmail.com"
 LABEL version="1.0"
 LABEL description="A simple Java application"
 
